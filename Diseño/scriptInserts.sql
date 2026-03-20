@@ -1,5 +1,3 @@
--- Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
-
 -- 1. TrabajadorLimpieza
 INSERT INTO TrabajadorLimpieza (dni, nombre, ap1, ap2, cargo, sueldo) VALUES
 ('11111111A', 'Oihan', 'Sancet', 'Tirapu', 'Limpiador', 1250.00),

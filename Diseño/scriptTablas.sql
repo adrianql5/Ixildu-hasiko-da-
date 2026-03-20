@@ -1,5 +1,3 @@
--- Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
-
 -- 1.TrabajadorLimpieza
 CREATE TABLE TrabajadorLimpieza (
   dni      VARCHAR(9)   PRIMARY KEY,
